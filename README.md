@@ -1,2 +1,2 @@
-# sigfox
-Mostly about processing data pushed to SigFox cloud from my various devices
+# Parsing Sigfox payloads
+Mostly about processing data pushed to Sigfox cloud from my various devices
